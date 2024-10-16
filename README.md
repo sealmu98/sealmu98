@@ -1,6 +1,11 @@
-### Hi there 👋
-
-<img alt="Static Badge" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white">
+### Стек технологий
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
+![DRF](https://img.shields.io/badge/-Django_REST_Framework-black?style=for-the-badge&logo=DRF)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
+![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=JWT)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 
 <!--
 **sealmu98/sealmu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
